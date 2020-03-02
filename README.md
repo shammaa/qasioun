@@ -1,1 +1,4 @@
-echo "# qasioun" >> README.md
+# qasioun 
+for laravel project
+
+## project notes
